@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exclusão de Dados - Meu App</title>
+</head>
+<body>
+    <h1>Instruções para Exclusão de Dados</h1>
+    <p>Para solicitar a exclusão dos seus dados coletados pelo nosso aplicativo, siga os passos abaixo:</p>
+    <ul>
+        <li>Acesse as configurações do seu perfil no Facebook.</li>
+        <li>Vá em 'Configurações e privacidade' > 'Configurações'.</li>
+        <li>Procure por 'Aplicativos e sites'.</li>
+        <li>Remova o nosso aplicativo.</li>
+    </ul>
+    <p>Ou, se preferir, envie um e-mail para <strong>seu-email@exemplo.com</strong> com o seu ID de usuário, e faremos a exclusão manual em até 48 horas.</p>
+</body>
+</html>
